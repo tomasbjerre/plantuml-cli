@@ -1,0 +1,15 @@
+{
+  "version": "1.2023.1",
+  "name": "plantuml-cli",
+  "runnable-jar-regexp": "build/.*.jar",
+  "files": [
+    "build"
+  ],
+  "bin": "./index.js",
+  "dependencies": {
+    "npm-java-runner": "^1.0.2"
+  },
+  "license": "Apache 2",
+  "homepage": "https://github.com/tomasbjerre/plantuml-cli",
+  "repository": "git@github.com:tomasbjerre/plantuml-cli.git"
+}
