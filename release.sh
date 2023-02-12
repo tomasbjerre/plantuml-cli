@@ -15,7 +15,7 @@ else
  exit
 fi
 
-npm version prerelease --preid=alpha
+#npm version prerelease --preid=alpha
 rm -f package-lock.json
 npm install \
  && npm publish \
