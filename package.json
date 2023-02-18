@@ -9,7 +9,7 @@
   "dependencies": {
     "npm-java-runner": "^1.0.2"
   },
-  "license": "Apache 2",
+  "license": "GPL-3.0-only",
   "homepage": "https://github.com/tomasbjerre/plantuml-cli",
   "repository": "git@github.com:tomasbjerre/plantuml-cli.git"
 }
