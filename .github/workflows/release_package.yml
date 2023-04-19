@@ -17,9 +17,6 @@ jobs:
           registry-url: https://registry.npmjs.org/
           node-version: '14'
 
-      - name: Install dependencies
-        run: npm install && git checkout package-lock.json
-
       - name: Git configuration
         run: |
           git config --global user.email "tomas.bjerre85@gmail.com"
