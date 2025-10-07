@@ -7,7 +7,7 @@
   ],
   "bin": "./index.js",
   "dependencies": {
-    "npm-java-runner": "^1.0.2"
+    "npm-java-runner": "^2.0.0"
   },
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/tomasbjerre/plantuml-cli",
