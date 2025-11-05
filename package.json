@@ -1,5 +1,5 @@
 {
-  "version": "1.2025.9",
+  "version": "1.2025.10",
   "name": "plantuml-cli",
   "runnable-jar-regexp": "build/.*.jar",
   "files": [
