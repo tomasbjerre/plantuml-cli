@@ -5,7 +5,7 @@ echo releasing $version
 
 rm -rf build \
  && mkdir build \
- && wget –q https://github.com/plantuml/plantuml/releases/download/v$version/plantuml-$version.jar -P build
+ && wget -q https://github.com/plantuml/plantuml/releases/download/v$version/plantuml-$version.jar -P build
 
 FILE=build/plantuml-$version.jar
 if [ -f "$FILE" ]; then
