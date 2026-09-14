@@ -1,6 +1,6 @@
 # Plantuml CLI
 
-[![NPM](https://img.shields.io/npm/v/plantuml-cli.svg?style=flat-square) ](https://www.npmjs.com/package/plantuml-cli)
+[![NPM](https://img.shields.io/npm/v/plantuml-cli.svg?style=flat-square)](https://www.npmjs.com/package/plantuml-cli)
 
 This is [Plantuml](https://github.com/plantuml/plantuml) wrapped [inside an NPM package](https://github.com/tomasbjerre/npm-java-runner). It relies only on dependencies found in NPM.
 
