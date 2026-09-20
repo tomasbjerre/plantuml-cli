@@ -1,0 +1,8 @@
+name: Bundle Workflow Linter
+
+on:
+  pull_request:
+
+jobs:
+  call-workflow-linter:
+    uses: tomasbjerre/.github/.github/workflows/bundle-workflow-linter.yaml@master
