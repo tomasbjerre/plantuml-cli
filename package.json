@@ -6,6 +6,9 @@
     "build"
   ],
   "bin": "./index.js",
+  "scripts": {
+    "build": "node --check index.js"
+  },
   "dependencies": {
     "npm-java-runner": "^2.0.0"
   },

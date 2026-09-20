@@ -12,7 +12,6 @@ couscous.phar
 .okhttpcache
 jdeploy-bundle
 node_modules
-package-lock.json
 *jar
 example/node_modules
 build
